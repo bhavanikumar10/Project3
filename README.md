@@ -9,13 +9,14 @@ In 2015, scientists confirmed what all but the most serious wine drinkers have l
 
 The Data
 This Kaggle dataset was originally scraped from Wine Enthusiast, and is comprised of 150k records.
- 
+<img src = "img/dataset.jpg"> 
 
  
  
  
  
-Corgi Word Cloud  
+Corgi Word Cloud  CORGIWORDCLOUD.png
+<img src= "img/CORGIWORDCLOUD.png">
 
  
 
